@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "parcel": "^2.8.0"
+    "core-js": "^3.26.1",
+    "parcel": "^2.8.0",
+    "regenerator-runtime": "^0.13.11"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0"
